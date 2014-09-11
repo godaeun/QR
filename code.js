@@ -3,8 +3,8 @@ function setup() {
 
   // 0 : black, 255 : white
   //background(red, gree, blue);
-  background(57, 159, 231);
-  
+  background(255, 232, 31);
+
   stroke(255);
 
     rect(0,0,20,20);
